@@ -1,6 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ["./index.html", "./src/**/*.{html,js}"],
+  content: ["./index.html", "./dist/**/*.{html,js}", "./js/**/*.{html,js}"],
   safelist: [
     "bg-customBlue", // Add any dynamically generated classes here
   ],
