@@ -31,7 +31,7 @@ Ensure you have the following installed:
 
 ### Installation
 
-**Clone the repository**:
+**Clone the repository and build Tailwind**:
    ```bash
    git clone https://github.com/your-username/uniatest.git
    cd uniatest
