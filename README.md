@@ -31,10 +31,18 @@ Ensure you have the following installed:
 
 ### Installation
 
-**Clone the repository and build Tailwind**:
+**Clone the repository:
    ```bash
    git clone https://github.com/your-username/uniatest.git
    cd uniatest
+   ```
 
-#### Build Tailwind: To build the Tailwind styles:
+**Install node:
+   ```
+   npm install
+   ```
+
+**Build Tailwind: To build the Tailwind styles:
+    ```
     npm run build:css
+    ```
